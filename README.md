@@ -74,3 +74,11 @@ Ensure that API calls correctly reference the `NEXT_PUBLIC_API_BASE_URL`.
 2️⃣ Connected the repository to Railway for deployment.  
 3️⃣ Set up environment variables (`MONGODB_URI`, `NEXT_PUBLIC_API_BASE_URL`).  
 4️⃣ Railway automatically built and deployed the application.  
+
+Images
+![Screenshot 2025-03-17 232002](https://github.com/user-attachments/assets/194334c4-6c52-4705-884f-972343c43970)
+
+![Screenshot 2025-03-17 232048](https://github.com/user-attachments/assets/e1c45c97-7e22-441c-8891-73aecbfca95c)
+
+![{263CA1F6-A11D-45A1-8FC0-84BC8B348BF3}](https://github.com/user-attachments/assets/bb304168-312a-4660-a927-5b76442c9ce8)
+
